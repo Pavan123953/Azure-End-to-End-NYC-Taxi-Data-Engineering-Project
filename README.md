@@ -7,7 +7,7 @@ A full-stack data engineering pipeline built on Microsoft Azure, designed to ing
 ## 📂 Data Involved
 
 ### 1. Source Data
-- **NYC TLC Trip Records** (Green):
+- **NYC TLC Trip Records** (Green-2023):
   - Available as monthly **Parquet** files on NYC.gov.
   - Key fields include:
     - `pickup_datetime`, `dropoff_datetime`
